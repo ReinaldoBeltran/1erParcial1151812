@@ -97,8 +97,7 @@ a.active,a:hover{
 
   grid-template-columns: repeat(2,1fr);
   grid-gap: 5em;
-
-  background-color: #545FF4 ; 
+ 
 }
 p{
   font-size: 25px;
@@ -111,7 +110,7 @@ p{
   display: grid;
   grid-template-columns: repeat(2,1fr);
   grid-gap: 6em;
-  background-color: #F33E3E;
+ 
 
 }
 #imagenSintomas{
@@ -128,7 +127,7 @@ p{
   display: grid;
   grid-template-columns: repeat(2,1fr);
   grid-gap: 6em;
-  background-color: #C7F315;
+  
 }
 #imgCuidarnos{
   width: 500px;
@@ -138,8 +137,22 @@ p{
    display: grid;
   grid-template-columns: repeat(2,1fr);
   grid-gap: 6em;
-  background-color:#20FB15;
+  
 
 }
 
+.grid5{
+   display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 2em;
 
+
+}
+.container{
+  background-color: #7C6FFA;
+}
+
+.gridd{
+
+
+}
